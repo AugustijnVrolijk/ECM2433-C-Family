@@ -1,0 +1,20 @@
+the quality for 1 shuffle is: 0.842105
+the quality for 1 shuffles is: 0.795918
+the quality for 2 shuffles is: 0.693878
+the quality for 3 shuffles is: 0.591837
+the quality for 4 shuffles is: 0.551021
+the quality for 5 shuffles is: 0.489796
+the quality for 6 shuffles is: 0.469388
+the quality for 7 shuffles is: 0.489796
+the quality for 8 shuffles is: 0.489796
+the quality for 9 shuffles is: 0.469388
+the quality for 10 shuffles is: 0.489796
+the quality for 11 shuffles is: 0.530612
+the quality for 12 shuffles is: 0.571428
+the quality for 13 shuffles is: 0.591837
+the quality for 14 shuffles is: 0.530612
+the quality for 15 shuffles is: 0.489796
+
+according to the following results I would recommend using the riffle shuffle about 5 times.
+After 5 times the quality seems to stagnate within the 0.45-0.55 region.
+this would suggest no more improvements can be made as the trend stays around this average.

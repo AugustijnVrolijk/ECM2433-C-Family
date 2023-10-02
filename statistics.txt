@@ -1,0 +1,35 @@
+Average turn time for 2 players: 272
+Longest turn time for 2 players: 339
+Shortest turn time for 2 players: 79
+
+Average turn time for 3 players: 70
+Longest turn time for 3 players: 70
+Shortest turn time for 3 players: 70
+
+Average turn time for 4 players: 368
+Longest turn time for 4 players: 632
+Shortest turn time for 4 players: 135
+
+Average turn time for 5 players: 141
+Longest turn time for 5 players: 357
+Shortest turn time for 5 players: 130
+
+Average turn time for 6 players: 373
+Longest turn time for 6 players: 527
+Shortest turn time for 6 players: 236
+
+Average turn time for 7 players: 184
+Longest turn time for 7 players: 210
+Shortest turn time for 7 players: 164
+
+Average turn time for 8 players: 217
+Longest turn time for 8 players: 227
+Shortest turn time for 8 players: 209
+
+Average turn time for 9 players: 204
+Longest turn time for 9 players: 472
+Shortest turn time for 9 players: 96
+
+Average turn time for 10 players: 233
+Longest turn time for 10 players: 591
+Shortest turn time for 10 players: 121
